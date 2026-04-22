@@ -1,0 +1,15 @@
+name: GSWORD
+main: GSWORD\Main
+version: 1.0.1
+api: 5.0.0
+author: ZyberPE
+
+commands:
+  gsword:
+    description: Get the GSWORD
+    usage: "/gsword"
+    permission: gsword.use
+
+permissions:
+  gsword.use:
+    default: op
