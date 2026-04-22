@@ -1,0 +1,18 @@
+cooldown: 60
+
+messages:
+  no-permission: "&cYou do not have permission!"
+  received: "&aYou received the GSWORD!"
+  cooldown: "&cYou must wait {time}s before using this again!"
+
+sword:
+  name: "&6&lGod Sword"
+  lore:
+    - "&7A powerful blade..."
+    - "&eUse it wisely!"
+  show-enchants-in-lore: true
+
+  enchants:
+    sharpness: 5
+    unbreaking: 3
+    fire_aspect: 2
